@@ -459,4 +459,18 @@
     ],
     "answer": "Thomas Edison"
   }
+  //{
+ // "id": 2,
+ // "type": "image",
+ // "question_image": "images/math_12x2.png",
+ // "options": [
+ //   { "image": "images/opt1.png" },
+ //   { "image": "images/opt2.png" },
+ //   { "image": "images/opt3.png" },
+ //   { "image": "images/opt4.png" }
+ // ],
+ // "answer_index": 1
+//}
+
 ]
+

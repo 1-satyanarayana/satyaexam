@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+  </head>
+  <body>
+    <div class="exam-container">
+      <h2>🚆 RRB Group D CBT Exam</h2>
+      <div id="timer">Time Left: 90:00</div>
+
+      <div id="question-numbers"></div>
+
+      <div id="question-box">
+        <h3 id="question-text"></h3>
+        <div id="options"></div>
+      </div>
+
+      <div class="nav-buttons">
+        <button onclick="prevQuestion()">Previous</button>
+        <button onclick="nextQuestion()">Next</button>
+        <button onclick="submitExam()">Submit Exam</button>
+      </div>
+    </div>
+
+    <div id="result" class="hidden"></div>
+  </body>
+</html>

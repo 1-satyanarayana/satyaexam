@@ -1,0 +1,417 @@
+[
+  {
+    "question": "Water boils at?",
+    "options": ["90°C", "100°C", "110°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Chemical symbol for Gold?",
+    "options": ["Au", "Ag", "G", "Go"],
+    "answer": "Au"
+  },
+  {
+    "question": "Human blood is?",
+    "options": ["Red", "Blue", "Green", "Yellow"],
+    "answer": "Red"
+  },
+  {
+    "question": "Which gas do plants release?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Earth revolves around?",
+    "options": ["Sun", "Moon", "Mars", "Venus"],
+    "answer": "Sun"
+  },
+  {
+    "question": "H2O is chemical formula for?",
+    "options": ["Water", "Hydrogen", "Oxygen", "Salt"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which organ pumps blood?",
+    "options": ["Liver", "Heart", "Kidney", "Lungs"],
+    "answer": "Heart"
+  },
+  {
+    "question": "Which vitamin is synthesized in sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "Force is measured in?",
+    "options": ["Newton", "Joule", "Pascal", "Watt"],
+    "answer": "Newton"
+  },
+  {
+    "question": "Which part of plant makes food?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": "Leaf"
+  },
+  {
+    "question": "Normal human body temperature?",
+    "options": ["36.5°C", "37°C", "38°C", "35°C"],
+    "answer": "37°C"
+  },
+  {
+    "question": "Which planet is called Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Which gas is needed for respiration?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which blood cells fight infection?",
+    "options": ["Red", "White", "Platelets", "Plasma"],
+    "answer": "White"
+  },
+  {
+    "question": "Which organ is for breathing?",
+    "options": ["Liver", "Heart", "Lungs", "Kidney"],
+    "answer": "Lungs"
+  },
+  {
+    "question": "Which planet is nearest to Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "pH of pure water is?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "question": "Which vitamin prevents scurvy?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "question": "Which blood component carries oxygen?",
+    "options": ["Platelets", "Plasma", "Red Blood Cells", "White Blood Cells"],
+    "answer": "Red Blood Cells"
+  },
+  {
+    "question": "Human skeleton has how many bones?",
+    "options": ["206", "208", "210", "212"],
+    "answer": "206"
+  },
+  {
+    "question": "Sound travels fastest in?",
+    "options": ["Air", "Water", "Steel", "Vacuum"],
+    "answer": "Steel"
+  },
+  {
+    "question": "Which organ stores bile?",
+    "options": ["Liver", "Gall Bladder", "Stomach", "Pancreas"],
+    "answer": "Gall Bladder"
+  },
+  {
+    "question": "Which is a non-metal?",
+    "options": ["Oxygen", "Iron", "Copper", "Gold"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which part of brain controls balance?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Pons"],
+    "answer": "Cerebellum"
+  },
+  {
+    "question": "Which is largest gland in human body?",
+    "options": ["Liver", "Pancreas", "Thyroid", "Spleen"],
+    "answer": "Liver"
+  },
+  {
+    "question": "What is the freezing point of water?",
+    "options": ["0°C", "32°C", "100°C", "50°C"],
+    "answer": "0°C"
+  },
+  {
+    "question": "What is the boiling point of ethanol?",
+    "options": ["78°C", "100°C", "90°C", "80°C"],
+    "answer": "78°C"
+  },
+  {
+    "question": "Which blood group is universal donor?",
+    "options": ["A", "B", "O", "AB"],
+    "answer": "O"
+  },
+  {
+    "question": "Which is the largest internal organ in humans?",
+    "options": ["Heart", "Liver", "Lungs", "Kidney"],
+    "answer": "Liver"
+  },
+  {
+    "question": "Which planet has rings?",
+    "options": ["Mars", "Venus", "Saturn", "Mercury"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which part of cell contains genetic material?",
+    "options": ["Nucleus", "Cytoplasm", "Ribosome", "Mitochondria"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "Which gas causes acid rain?",
+    "options": ["CO2", "SO2", "O2", "H2"],
+    "answer": "SO2"
+  },
+  {
+    "question": "Which vitamin is water-soluble?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "question": "Largest planet in Solar System?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Iron", "Aluminum", "Gold"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which part of eye controls amount of light entering?",
+    "options": ["Lens", "Cornea", "Iris", "Retina"],
+    "answer": "Iris"
+  },
+  {
+    "question": "Atomic number of Hydrogen?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "1"
+  },
+  {
+    "question": "Which vitamin is fat-soluble?",
+    "options": ["A, D, E, K", "B", "C", "None"],
+    "answer": "A, D, E, K"
+  },
+  {
+    "question": "Which gas is used in balloons?",
+    "options": ["Oxygen", "Nitrogen", "Helium", "Hydrogen"],
+    "answer": "Helium"
+  },
+  {
+    "question": "Which force keeps planets in orbit?",
+    "options": ["Friction", "Magnetism", "Gravity", "Tension"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "Main component of natural gas?",
+    "options": ["Methane", "Oxygen", "CO2", "Hydrogen"],
+    "answer": "Methane"
+  },
+  {
+    "question": "Smallest unit of life?",
+    "options": ["Atom", "Molecule", "Cell", "Organ"],
+    "answer": "Cell"
+  },
+  {
+    "question": "Which organ regulates sugar in blood?",
+    "options": ["Pancreas", "Liver", "Kidney", "Heart"],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "Which is hardest natural substance?",
+    "options": ["Iron", "Diamond", "Gold", "Silver"],
+    "answer": "Diamond"
+  },
+  {
+    "question": "Which gas do humans exhale?",
+    "options": ["Oxygen", "CO2", "Nitrogen", "Helium"],
+    "answer": "CO2"
+  },
+  {
+    "question": "Which is largest planet after Jupiter?",
+    "options": ["Saturn", "Mars", "Earth", "Venus"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which organ detoxifies blood?",
+    "options": ["Kidney", "Liver", "Heart", "Lungs"],
+    "answer": "Liver"
+  },
+  {
+    "question": "Which vitamin is for blood clotting?",
+    "options": ["K", "A", "C", "D"],
+    "answer": "K"
+  },
+  {
+    "question": "Which part of plant absorbs water?",
+    "options": ["Root", "Stem", "Leaf", "Flower"],
+    "answer": "Root"
+  },
+  {
+    "question": "Which is the chemical symbol of Iron?",
+    "options": ["Fe", "Ir", "I", "In"],
+    "answer": "Fe"
+  },
+  {
+    "question": "Which organ controls hormones?",
+    "options": ["Heart", "Brain", "Pancreas", "Endocrine glands"],
+    "answer": "Endocrine glands"
+  },
+  {
+    "question": "Which blood group is universal recipient?",
+    "options": ["O", "A", "B", "AB"],
+    "answer": "AB"
+  },
+  {
+    "question": "Which gas is used in photosynthesis?",
+    "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "Which part of body produces insulin?",
+    "options": ["Liver", "Pancreas", "Kidney", "Heart"],
+    "answer": "Pancreas"
+  },
+  {
+    "question": "Atomic number of Carbon?",
+    "options": ["6", "12", "14", "8"],
+    "answer": "6"
+  },
+  {
+    "question": "Which gas is needed for combustion?",
+    "options": ["Oxygen", "CO2", "Nitrogen", "Helium"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "Which vitamin helps in vision?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "A"
+  },
+  {
+    "question": "Which organ stores urine?",
+    "options": ["Kidney", "Bladder", "Ureter", "Liver"],
+    "answer": "Bladder"
+  },
+  {
+    "question": "Which force pulls objects toward Earth?",
+    "options": ["Magnetism", "Gravity", "Friction", "Centrifugal"],
+    "answer": "Gravity"
+  },
+  {
+    "question": "Which is primary source of energy?",
+    "options": ["Sun", "Moon", "Wind", "Water"],
+    "answer": "Sun"
+  },
+  {
+    "question": "Which element is in salt?",
+    "options": ["Sodium", "Potassium", "Calcium", "Magnesium"],
+    "answer": "Sodium"
+  },
+  {
+    "question": "Which vitamin prevents rickets?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D"
+  },
+  {
+    "question": "Which organ stores glycogen?",
+    "options": ["Liver", "Heart", "Kidney", "Muscles"],
+    "answer": "Liver"
+  },
+  {
+    "question": "Which planet is gas giant?",
+    "options": ["Earth", "Mars", "Jupiter", "Venus"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Which metal is used in electrical wires?",
+    "options": ["Copper", "Iron", "Aluminum", "Gold"],
+    "answer": "Copper"
+  },
+  {
+    "question": "Which gas is used in refrigerators?",
+    "options": ["CO2", "Chlorofluorocarbon", "Oxygen", "Nitrogen"],
+    "answer": "Chlorofluorocarbon"
+  },
+  {
+    "question": "Which part of blood fights infection?",
+    "options": ["Red cells", "White cells", "Platelets", "Plasma"],
+    "answer": "White cells"
+  },
+  {
+    "question": "Which gas is used in fire extinguishers?",
+    "options": ["CO2", "Oxygen", "Hydrogen", "Nitrogen"],
+    "answer": "CO2"
+  },
+  {
+    "question": "Smallest planet in Solar System?",
+    "options": ["Mercury", "Mars", "Venus", "Earth"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Which organ controls balance?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Spinal cord"],
+    "answer": "Cerebellum"
+  },
+  {
+    "question": "Which gas is in air the most?",
+    "options": ["Oxygen", "Nitrogen", "CO2", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Which part of blood carries oxygen?",
+    "options": ["Plasma", "Red cells", "White cells", "Platelets"],
+    "answer": "Red cells"
+  },
+  {
+    "question": "Which metal is lightest?",
+    "options": ["Aluminum", "Iron", "Copper", "Gold"],
+    "answer": "Aluminum"
+  },
+  {
+    "question": "Which vitamin helps in wound healing?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "C"
+  },
+  {
+    "question": "Which organ filters blood?",
+    "options": ["Liver", "Kidney", "Heart", "Lungs"],
+    "answer": "Kidney"
+  },
+  {
+    "question": "Which gas causes greenhouse effect?",
+    "options": ["Oxygen", "CO2", "Nitrogen", "Helium"],
+    "answer": "CO2"
+  },
+  {
+    "question": "Which planet is blue in color?",
+    "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+    "answer": "Earth"
+  },
+  {
+    "question": "Which part of brain controls heartbeat?",
+    "options": ["Cerebrum", "Medulla", "Cerebellum", "Pons"],
+    "answer": "Medulla"
+  },
+  {
+    "question": "Which vitamin is for bones?",
+    "options": ["A", "B", "C", "D"],
+    "answer": "D"
+  },
+  {
+    "question": "Which gas is used in lamps?",
+    "options": ["Oxygen", "Hydrogen", "Methane", "Helium"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Which element is in bones?",
+    "options": ["Calcium", "Iron", "Potassium", "Sodium"],
+    "answer": "Calcium"
+  },
+  {
+    "question": "Which planet is second from Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Venus"
+  },
+  {
+    "question": "Which blood vessel carries blood to heart?",
+    "options": ["Arteries", "Veins", "Capillaries", "Venules"],
+    "answer": "Veins"
+  }
+]

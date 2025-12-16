@@ -1,0 +1,462 @@
+[
+  {
+    "question": "Who is the current President of India?",
+    "options": [
+      "Droupadi Murmu",
+      "Ram Nath Kovind",
+      "Pranab Mukherjee",
+      "A.P.J. Abdul Kalam"
+    ],
+    "answer": "Droupadi Murmu"
+  },
+  {
+    "question": "Capital of France?",
+    "options": ["Paris", "London", "Berlin", "Rome"],
+    "answer": "Paris"
+  },
+  {
+    "question": "National animal of India?",
+    "options": ["Tiger", "Lion", "Elephant", "Peacock"],
+    "answer": "Tiger"
+  },
+  {
+    "question": "Which is the longest river in India?",
+    "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+    "answer": "Ganga"
+  },
+  {
+    "question": "Which planet is nearest to Sun?",
+    "options": ["Mercury", "Venus", "Earth", "Mars"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "National bird of India?",
+    "options": ["Peacock", "Eagle", "Parrot", "Sparrow"],
+    "answer": "Peacock"
+  },
+  {
+    "question": "Who wrote Mahabharata?",
+    "options": ["Vyasa", "Valmiki", "Kalidasa", "Tulsidas"],
+    "answer": "Vyasa"
+  },
+  {
+    "question": "Headquarters of UN?",
+    "options": ["New York", "Geneva", "Paris", "London"],
+    "answer": "New York"
+  },
+  {
+    "question": "Current Prime Minister of India?",
+    "options": ["Narendra Modi", "Manmohan Singh", "Rahul Gandhi", "Amit Shah"],
+    "answer": "Narendra Modi"
+  },
+  {
+    "question": "Currency of Japan?",
+    "options": ["Yen", "Dollar", "Euro", "Rupee"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Which year India became Republic?",
+    "options": ["1950", "1947", "1952", "1960"],
+    "answer": "1950"
+  },
+  {
+    "question": "National flower of India?",
+    "options": ["Lotus", "Rose", "Marigold", "Sunflower"],
+    "answer": "Lotus"
+  },
+  {
+    "question": "Current Chief Justice of India?",
+    "options": [
+      "Dhananjaya Y. Chandrachud",
+      "N.V. Ramana",
+      "Ranjan Gogoi",
+      "S.A. Bobde"
+    ],
+    "answer": "Dhananjaya Y. Chandrachud"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "options": ["Newton", "Einstein", "Galileo", "Tesla"],
+    "answer": "Newton"
+  },
+  {
+    "question": "First man on Moon?",
+    "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"],
+    "answer": "Neil Armstrong"
+  },
+  {
+    "question": "Which country hosted 2024 Olympics?",
+    "options": ["France", "Japan", "USA", "China"],
+    "answer": "France"
+  },
+  {
+    "question": "Current RBI Governor?",
+    "options": [
+      "Shaktikanta Das",
+      "Urjit Patel",
+      "Raghuram Rajan",
+      "Y.V. Reddy"
+    ],
+    "answer": "Shaktikanta Das"
+  },
+  {
+    "question": "Which gas is most abundant in atmosphere?",
+    "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+    "answer": "Nitrogen"
+  },
+  {
+    "question": "Largest continent by area?",
+    "options": ["Asia", "Africa", "Europe", "America"],
+    "answer": "Asia"
+  },
+  {
+    "question": "Who is called father of Indian Constitution?",
+    "options": [
+      "B.R. Ambedkar",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "answer": "B.R. Ambedkar"
+  },
+  {
+    "question": "National sport of India?",
+    "options": ["Hockey", "Cricket", "Football", "Kabaddi"],
+    "answer": "Hockey"
+  },
+  {
+    "question": "Which is largest ocean?",
+    "options": ["Pacific", "Atlantic", "Indian", "Arctic"],
+    "answer": "Pacific"
+  },
+  {
+    "question": "Who invented Telephone?",
+    "options": [
+      "Alexander Graham Bell",
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Guglielmo Marconi"
+    ],
+    "answer": "Alexander Graham Bell"
+  },
+  {
+    "question": "Capital of Australia?",
+    "options": ["Canberra", "Sydney", "Melbourne", "Perth"],
+    "answer": "Canberra"
+  },
+  {
+    "question": "Which planet is known as Red Planet?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars"
+  },
+  {
+    "question": "Who is known as Missile Man of India?",
+    "options": [
+      "A.P.J. Abdul Kalam",
+      "Homi Bhabha",
+      "Vikram Sarabhai",
+      "C.V. Raman"
+    ],
+    "answer": "A.P.J. Abdul Kalam"
+  },
+  {
+    "question": "First Prime Minister of India?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Sardar Patel",
+      "Indira Gandhi",
+      "Morarji Desai"
+    ],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "Which is smallest planet?",
+    "options": ["Mercury", "Mars", "Venus", "Earth"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Who discovered Penicillin?",
+    "options": [
+      "Alexander Fleming",
+      "Marie Curie",
+      "Louis Pasteur",
+      "Robert Koch"
+    ],
+    "answer": "Alexander Fleming"
+  },
+  {
+    "question": "Capital of Canada?",
+    "options": ["Ottawa", "Toronto", "Montreal", "Vancouver"],
+    "answer": "Ottawa"
+  },
+  {
+    "question": "Which Indian state has longest coastline?",
+    "options": ["Gujarat", "Tamil Nadu", "Maharashtra", "Karnataka"],
+    "answer": "Gujarat"
+  },
+  {
+    "question": "Which planet has rings?",
+    "options": ["Saturn", "Jupiter", "Mars", "Earth"],
+    "answer": "Saturn"
+  },
+  {
+    "question": "Which is the largest desert?",
+    "options": ["Sahara", "Thar", "Gobi", "Kalahari"],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Which is the national tree of India?",
+    "options": ["Banyan", "Neem", "Peepal", "Mango"],
+    "answer": "Banyan"
+  },
+  {
+    "question": "Who won Nobel Peace Prize 2024?",
+    "options": [
+      "Nadia Murad",
+      "Malala Yousafzai",
+      "Barack Obama",
+      "Abiy Ahmed"
+    ],
+    "answer": "Nadia Murad"
+  },
+  {
+    "question": "Which element has atomic number 1?",
+    "options": ["Hydrogen", "Helium", "Oxygen", "Nitrogen"],
+    "answer": "Hydrogen"
+  },
+  {
+    "question": "Which country invented paper?",
+    "options": ["China", "Egypt", "India", "Greece"],
+    "answer": "China"
+  },
+  {
+    "question": "Capital of Japan?",
+    "options": ["Tokyo", "Kyoto", "Osaka", "Hiroshima"],
+    "answer": "Tokyo"
+  },
+  {
+    "question": "Who wrote Ramayana?",
+    "options": ["Valmiki", "Vyasa", "Kalidasa", "Tulsidas"],
+    "answer": "Valmiki"
+  },
+  {
+    "question": "Largest freshwater lake?",
+    "options": [
+      "Lake Superior",
+      "Lake Victoria",
+      "Lake Baikal",
+      "Lake Tanganyika"
+    ],
+    "answer": "Lake Superior"
+  },
+  {
+    "question": "Which country is called Land of Rising Sun?",
+    "options": ["Japan", "China", "Thailand", "Vietnam"],
+    "answer": "Japan"
+  },
+  {
+    "question": "Which is largest island?",
+    "options": ["Greenland", "Australia", "Madagascar", "Borneo"],
+    "answer": "Greenland"
+  },
+  {
+    "question": "Which Indian state is known as Land of Five Rivers?",
+    "options": ["Punjab", "Haryana", "Rajasthan", "Uttar Pradesh"],
+    "answer": "Punjab"
+  },
+  {
+    "question": "Who is the current UN Secretary-General?",
+    "options": [
+      "Antonio Guterres",
+      "Ban Ki-moon",
+      "Kofi Annan",
+      "Boutros Boutros-Ghali"
+    ],
+    "answer": "Antonio Guterres"
+  },
+  {
+    "question": "National fruit of India?",
+    "options": ["Mango", "Apple", "Banana", "Orange"],
+    "answer": "Mango"
+  },
+  {
+    "question": "Which country hosted 2022 FIFA World Cup?",
+    "options": ["Qatar", "Brazil", "Germany", "USA"],
+    "answer": "Qatar"
+  },
+  {
+    "question": "Which is largest country by area?",
+    "options": ["Russia", "Canada", "USA", "China"],
+    "answer": "Russia"
+  },
+  {
+    "question": "Who wrote 'The Discovery of India'?",
+    "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "R.K. Narayan",
+      "Rabindranath Tagore"
+    ],
+    "answer": "Jawaharlal Nehru"
+  },
+  {
+    "question": "Which is the smallest country in world?",
+    "options": ["Vatican City", "Monaco", "Malta", "San Marino"],
+    "answer": "Vatican City"
+  },
+  {
+    "question": "National currency of India?",
+    "options": ["Rupee", "Dollar", "Euro", "Pound"],
+    "answer": "Rupee"
+  },
+  {
+    "question": "Who discovered India’s first rocket?",
+    "options": [
+      "A.P.J. Abdul Kalam",
+      "Vikram Sarabhai",
+      "Homi Bhabha",
+      "Satish Dhawan"
+    ],
+    "answer": "Vikram Sarabhai"
+  },
+  {
+    "question": "Largest state in India by area?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Uttar Pradesh"],
+    "answer": "Rajasthan"
+  },
+  {
+    "question": "Current Chief Minister of Tamil Nadu?",
+    "options": [
+      "M.K. Stalin",
+      "O. Panneerselvam",
+      "J. Jayalalithaa",
+      "Edappadi Palaniswami"
+    ],
+    "answer": "M.K. Stalin"
+  },
+  {
+    "question": "Which planet is called Earth’s twin?",
+    "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+    "answer": "Venus"
+  },
+  {
+    "question": "Who was first Indian woman to go to space?",
+    "options": [
+      "Kalpana Chawla",
+      "Sunita Williams",
+      "Anousheh Ansari",
+      "Ritu Karidhal"
+    ],
+    "answer": "Kalpana Chawla"
+  },
+  {
+    "question": "Which is the largest waterfall in India?",
+    "options": [
+      "Jog Falls",
+      "Dudhsagar Falls",
+      "Athirappilly",
+      "Kunchikal Falls"
+    ],
+    "answer": "Jog Falls"
+  },
+  {
+    "question": "Who is father of Indian Nuclear Program?",
+    "options": [
+      "Homi Bhabha",
+      "C.V. Raman",
+      "Vikram Sarabhai",
+      "A.P.J. Abdul Kalam"
+    ],
+    "answer": "Homi Bhabha"
+  },
+  {
+    "question": "Which is largest river in the world?",
+    "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "answer": "Amazon"
+  },
+  {
+    "question": "Who is known as Iron Man of India?",
+    "options": [
+      "Sardar Vallabhbhai Patel",
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "B.R. Ambedkar"
+    ],
+    "answer": "Sardar Vallabhbhai Patel"
+  },
+  {
+    "question": "Which Indian state has highest literacy rate?",
+    "options": ["Kerala", "Maharashtra", "Tamil Nadu", "Goa"],
+    "answer": "Kerala"
+  },
+  {
+    "question": "Which is the smallest planet in Solar System?",
+    "options": ["Mercury", "Mars", "Venus", "Pluto"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "National game of India?",
+    "options": ["Hockey", "Cricket", "Football", "Kabaddi"],
+    "answer": "Hockey"
+  },
+  {
+    "question": "Who was first President of India?",
+    "options": [
+      "Dr. Rajendra Prasad",
+      "S. Radhakrishnan",
+      "Zakir Hussain",
+      "V.V. Giri"
+    ],
+    "answer": "Dr. Rajendra Prasad"
+  },
+  {
+    "question": "Which state is known as Land of Rising Sun in India?",
+    "options": ["Arunachal Pradesh", "Assam", "Nagaland", "Manipur"],
+    "answer": "Arunachal Pradesh"
+  },
+  {
+    "question": "Which is largest desert in the world?",
+    "options": ["Sahara", "Kalahari", "Gobi", "Thar"],
+    "answer": "Sahara"
+  },
+  {
+    "question": "Which metal is liquid at room temperature?",
+    "options": ["Mercury", "Sodium", "Potassium", "Iron"],
+    "answer": "Mercury"
+  },
+  {
+    "question": "Who wrote ‘Gitanjali’?",
+    "options": [
+      "Rabindranath Tagore",
+      "Kavi Pradeep",
+      "Harivansh Rai Bachchan",
+      "Bankim Chandra Chatterjee"
+    ],
+    "answer": "Rabindranath Tagore"
+  },
+  {
+    "question": "Which city is called Pink City?",
+    "options": ["Jaipur", "Udaipur", "Jodhpur", "Jaisalmer"],
+    "answer": "Jaipur"
+  },
+  {
+    "question": "Which Indian state has longest coastline?",
+    "options": ["Gujarat", "Tamil Nadu", "Odisha", "Andhra Pradesh"],
+    "answer": "Gujarat"
+  },
+  {
+    "question": "Which planet is largest in Solar System?",
+    "options": ["Jupiter", "Saturn", "Earth", "Neptune"],
+    "answer": "Jupiter"
+  },
+  {
+    "question": "Who invented the light bulb?",
+    "options": [
+      "Thomas Edison",
+      "Nikola Tesla",
+      "Benjamin Franklin",
+      "Alexander Graham Bell"
+    ],
+    "answer": "Thomas Edison"
+  }
+]

@@ -1,0 +1,342 @@
+[
+  {
+    "question": "Find the odd one: 2, 4, 8, 10",
+    "options": ["2", "4", "8", "10"],
+    "answer": "10"
+  },
+  {
+    "question": "If A>B and B>C, then A ?",
+    "options": ["<C", ">C", "=C", "Cannot say"],
+    "answer": ">C"
+  },
+  {
+    "question": "Which comes next: 2, 4, 8, 16, ?",
+    "options": ["18", "24", "32", "30"],
+    "answer": "32"
+  },
+  {
+    "question": "Find the missing number: 3, 6, 9, ?, 15",
+    "options": ["10", "12", "11", "13"],
+    "answer": "12"
+  },
+  {
+    "question": "Direction: North-East of East is?",
+    "options": ["North", "East", "South", "North-East"],
+    "answer": "North"
+  },
+  {
+    "question": "Which is pair of synonyms: Happy, Joyful, Sad, Angry",
+    "options": ["Happy-Joyful", "Happy-Sad", "Sad-Angry", "Angry-Joyful"],
+    "answer": "Happy-Joyful"
+  },
+  {
+    "question": "Find the odd one: Circle, Square, Triangle, Apple",
+    "options": ["Circle", "Square", "Triangle", "Apple"],
+    "answer": "Apple"
+  },
+  {
+    "question": "If 2+3=10, 3+4=21, 4+5=?",
+    "options": ["36", "45", "40", "49"],
+    "answer": "36"
+  },
+  {
+    "question": "Clock: 3 hours ahead of 9 AM is?",
+    "options": ["12 PM", "9 PM", "6 PM", "3 PM"],
+    "answer": "12 PM"
+  },
+  {
+    "question": "If CAT=24, DOG=?",
+    "options": ["26", "23", "25", "27"],
+    "answer": "26"
+  },
+  {
+    "question": "Find missing letter: A, C, E, ? , I",
+    "options": ["G", "F", "H", "J"],
+    "answer": "G"
+  },
+  {
+    "question": "Select the next number: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "80"],
+    "answer": "80"
+  },
+  {
+    "question": "Odd one out: 7, 11, 13, 15",
+    "options": ["7", "11", "13", "15"],
+    "answer": "15"
+  },
+  {
+    "question": "If PEN is coded as QFO, book is?",
+    "options": ["CPPL", "BPLK", "COOL", "CPLL"],
+    "answer": "CPPL"
+  },
+  {
+    "question": "Mirror of 'LEFT'",
+    "options": ["TFEL", "TELF", "TFL", "LFET"],
+    "answer": "TFEL"
+  },
+  {
+    "question": "If 6*2=8, 4*3=?",
+    "options": ["6", "7", "5", "9"],
+    "answer": "7"
+  },
+  {
+    "question": "Opposite of 'Advance'?",
+    "options": ["Retreat", "Forward", "Ahead", "Go"],
+    "answer": "Retreat"
+  },
+  {
+    "question": "Find odd pair: Dog, Cat, Car, Mouse",
+    "options": ["Dog-Cat", "Dog-Car", "Car-Mouse", "Cat-Mouse"],
+    "answer": "Dog-Car"
+  },
+  {
+    "question": "Select the next letter: A, D, G, J, ?",
+    "options": ["M", "N", "L", "O"],
+    "answer": "M"
+  },
+  {
+    "question": "Find missing number: 2, 4, 8, 16, ?",
+    "options": ["20", "24", "32", "30"],
+    "answer": "32"
+  },
+  {
+    "question": "Which is not a square? 16, 25, 36, 50",
+    "options": ["16", "25", "36", "50"],
+    "answer": "50"
+  },
+  {
+    "question": "6, 11, 16, ?",
+    "options": ["20", "21", "22", "23"],
+    "answer": "21"
+  },
+  {
+    "question": "Which is odd: 9, 15, 21, 28",
+    "options": ["9", "15", "21", "28"],
+    "answer": "28"
+  },
+  {
+    "question": "Select the missing alphabet: B, D, F, ?",
+    "options": ["H", "G", "I", "J"],
+    "answer": "H"
+  },
+  {
+    "question": "If 3+5=28, 4+6=?",
+    "options": ["42", "44", "40", "48"],
+    "answer": "42"
+  },
+  {
+    "question": "Find missing number: 1, 4, 9, 16, ?",
+    "options": ["20", "25", "30", "24"],
+    "answer": "25"
+  },
+  {
+    "question": "Odd one out: Pen, Pencil, Book, Eraser",
+    "options": ["Pen", "Pencil", "Book", "Eraser"],
+    "answer": "Book"
+  },
+  {
+    "question": "Find series: 2, 5, 10, 17, ?",
+    "options": ["24", "26", "25", "28"],
+    "answer": "26"
+  },
+  {
+    "question": "If 2*3=8, 3*4=?",
+    "options": ["11", "12", "14", "13"],
+    "answer": "14"
+  },
+  {
+    "question": "Clock: 2 hours before 6 PM?",
+    "options": ["4 PM", "5 PM", "6 AM", "3 PM"],
+    "answer": "4 PM"
+  },
+  {
+    "question": "Opposite of 'Victory'?",
+    "options": ["Defeat", "Loss", "Win", "Success"],
+    "answer": "Defeat"
+  },
+  {
+    "question": "Find the next number: 3, 6, 12, 24, ?",
+    "options": ["36", "48", "50", "52"],
+    "answer": "48"
+  },
+  {
+    "question": "Odd one out: Rose, Tulip, Lotus, Mango",
+    "options": ["Rose", "Tulip", "Lotus", "Mango"],
+    "answer": "Mango"
+  },
+  {
+    "question": "If 5+4=45, 6+3=?",
+    "options": ["36", "27", "30", "33"],
+    "answer": "27"
+  },
+  {
+    "question": "Mirror of 'RIGHT'?",
+    "options": ["THGIR", "TGHIR", "RIGTH", "RGHTI"],
+    "answer": "THGIR"
+  },
+  {
+    "question": "Which comes next: 1, 1, 2, 6, 24, ?",
+    "options": ["120", "1200", "720", "24"],
+    "answer": "120"
+  },
+  {
+    "question": "Select odd one: Dog, Tiger, Elephant, Car",
+    "options": ["Dog", "Tiger", "Elephant", "Car"],
+    "answer": "Car"
+  },
+  {
+    "question": "Find missing letter: P, R, T, ? , X",
+    "options": ["V", "U", "W", "Y"],
+    "answer": "V"
+  },
+  {
+    "question": "Direction: South of East is?",
+    "options": ["North", "West", "South", "East"],
+    "answer": "South"
+  },
+  {
+    "question": "Find odd one: 5, 10, 15, 22",
+    "options": ["5", "10", "15", "22"],
+    "answer": "22"
+  },
+  {
+    "question": "If 7*2=21, 6*3=?",
+    "options": ["18", "20", "19", "21"],
+    "answer": "18"
+  },
+  {
+    "question": "Opposite of 'Success'?",
+    "options": ["Failure", "Win", "Loss", "Draw"],
+    "answer": "Failure"
+  },
+  {
+    "question": "Find next in series: 10, 20, 40, 80, ?",
+    "options": ["100", "120", "160", "200"],
+    "answer": "160"
+  },
+  {
+    "question": "Select missing number: 2, 6, 12, 20, ?",
+    "options": ["28", "30", "32", "36"],
+    "answer": "30"
+  },
+  {
+    "question": "Odd one out: Apple, Mango, Banana, Carrot",
+    "options": ["Apple", "Mango", "Banana", "Carrot"],
+    "answer": "Carrot"
+  },
+  {
+    "question": "If PEN=QFO, BOOK=?",
+    "options": ["CPPL", "BOPK", "COOL", "CPLK"],
+    "answer": "CPPL"
+  },
+  {
+    "question": "Find missing alphabet: D, G, J, ? , P",
+    "options": ["M", "N", "O", "L"],
+    "answer": "M"
+  },
+  {
+    "question": "Which number comes next: 1, 4, 9, 16, ?",
+    "options": ["20", "25", "30", "36"],
+    "answer": "25"
+  },
+  {
+    "question": "Select odd one: 13, 17, 19, 21",
+    "options": ["13", "17", "19", "21"],
+    "answer": "21"
+  },
+  {
+    "question": "If 3+6=18, 4+5=?",
+    "options": ["20", "24", "27", "28"],
+    "answer": "27"
+  },
+  {
+    "question": "Mirror of 'STOP'?",
+    "options": ["POTS", "TOSP", "PSOT", "PTOS"],
+    "answer": "POTS"
+  },
+  {
+    "question": "Find next number: 2, 5, 10, 17, ?",
+    "options": ["24", "26", "25", "28"],
+    "answer": "26"
+  },
+  {
+    "question": "Odd one out: Pen, Pencil, Book, Eraser",
+    "options": ["Pen", "Pencil", "Book", "Eraser"],
+    "answer": "Book"
+  },
+  {
+    "question": "If A=1, B=2, ..., then F+H=?",
+    "options": ["14", "15", "16", "17"],
+    "answer": "14"
+  },
+  {
+    "question": "Direction: West of North is?",
+    "options": ["North", "South", "West", "East"],
+    "answer": "West"
+  },
+  {
+    "question": "Find missing number: 1, 2, 6, 24, ?",
+    "options": ["120", "1200", "60", "100"],
+    "answer": "120"
+  },
+  {
+    "question": "Odd one out: Circle, Triangle, Square, Rectangle",
+    "options": ["Circle", "Triangle", "Square", "Rectangle"],
+    "answer": "Circle"
+  },
+  {
+    "question": "Select next number: 3, 9, 27, ?",
+    "options": ["81", "90", "72", "54"],
+    "answer": "81"
+  },
+  {
+    "question": "If CAT=24, DOG=?",
+    "options": ["26", "25", "27", "28"],
+    "answer": "26"
+  },
+  {
+    "question": "Find missing letter: M, P, S, ? , Y",
+    "options": ["V", "W", "U", "T"],
+    "answer": "V"
+  },
+  {
+    "question": "Opposite of 'Open'?",
+    "options": ["Close", "Shut", "Lock", "All"],
+    "answer": "Close"
+  },
+  {
+    "question": "Which is odd: 8, 16, 32, 60",
+    "options": ["8", "16", "32", "60"],
+    "answer": "60"
+  },
+  {
+    "question": "Find next in series: 5, 10, 20, 40, ?",
+    "options": ["60", "80", "70", "90"],
+    "answer": "80"
+  },
+  {
+    "question": "Select missing alphabet: A, C, F, J, ?",
+    "options": ["O", "N", "M", "P"],
+    "answer": "O"
+  },
+  {
+    "question": "If 7+3=40, 5+2=?",
+    "options": ["14", "35", "21", "24"],
+    "answer": "21"
+  },
+  {
+    "question": "Mirror of 'MIRROR'?",
+    "options": ["RORRIM", "RORMIR", "ROMRIR", "RROMIR"],
+    "answer": "RORRIM"
+  },
+  {
+    "question": "Find next number: 1, 8, 27, 64, ?",
+    "options": ["125", "100", "110", "120"],
+    "answer": "125"
+  },
+  {
+    "question": "Odd one out: Cat, Dog, Tiger, Car",
+    "options": ["Cat", "Dog", "Tiger", "Car"],
+    "answer": "Car"
+  }
+]
